@@ -20,7 +20,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-master_doc = 'index'
+master_doc = 'contents'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -36,4 +36,4 @@ html_context = {
     "github_repo": "ibl-docs-ce",
     "github_version": "master",
 }
-# html_static_path = ['_static']
+html_static_path = ['_static']
