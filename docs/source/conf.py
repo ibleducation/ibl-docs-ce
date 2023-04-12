@@ -20,7 +20,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-source_dir = 'docs'
+master_doc = 'index'
 
 
 # -- Options for HTML output -------------------------------------------------
